@@ -1,7 +1,7 @@
 - Hey! I'm a @BurlyPillow, here's some random things about me.
 
 
--My main focus is powershell but I do like to mess with other things and keep growing
+- My main focus is powershell but I do like to mess with other things and keep growing
 
 
 - I'm currently working as an IT intern
