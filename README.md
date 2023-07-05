@@ -4,8 +4,6 @@
 - My main focus is powershell but I do like to mess with other things and keep growing
 
 
-- I'm currently working as an IT intern
-
 
 - I'm mainly interested in cybersecurity, powershell/cmd and python
 
